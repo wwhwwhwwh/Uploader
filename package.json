@@ -1,7 +1,7 @@
 {
-  "name": "simple-uploader.js",
+  "name": "@wwhwwhwwh/simple-uploader.js",
   "version": "0.6.0",
-  "author": "dolymood <dolymood@gmail.com>",
+  "author": "wwhwwhwwh",
   "license": "MIT",
   "description": "Uploader library implements html5 file upload and provides multiple simultaneous, stable, fault tolerant and resumable uploads",
   "keywords": [
@@ -21,10 +21,10 @@
   "main": "dist/uploader.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/simple-uploader/Uploader.git"
+    "url": "https://github.com/wwhwwhwwh/Uploader.git"
   },
-  "bugs": "https://github.com/simple-uploader/Uploader/issues",
-  "homepage": "https://github.com/simple-uploader/Uploader",
+  "bugs": "https://github.com/wwhwwhwwh/Uploader/issues",
+  "homepage": "https://github.com/wwhwwhwwh/Uploader",
   "scripts": {
     "dev": "gulp watch",
     "build": "gulp build",
