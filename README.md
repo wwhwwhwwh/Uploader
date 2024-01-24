@@ -9,4 +9,6 @@ npm:
 npm install @wwhwwhwwh/simple-uploader.js
 ```
 
+## 致谢
+
 > https://github.com/simple-uploader/Uploader
